@@ -7,7 +7,7 @@ Please address any feedback to Jun Chen chenj@nscl.msu.edu
 
 ## Change history
 
-#### 2021-11
+#### 2021-10
 A simple instruction is included in the program and can be popped out by clicking on the "?" mark on the program window
 
 ## Disclaimer
