@@ -8,7 +8,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 ## Change history
 
 #### 2022-06
-New features are added, like doing a simple arithmetic calculation based on an input expression, e.g., 77CO-75NI-2*n for Q(B-2N) of 77Co. See the updated instruction for details. 
+New features are added, like doing a simple arithmetic calculation based on an input expression, e.g., 77CO-75NI-2*n for Q(B-2N) of 77Co. See the updated instruction (in the program window) for details. 
 
 #### 2021-10
 A simple instruction is included in the program and can be popped out by clicking on the "?" mark on the program window
