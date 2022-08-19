@@ -1,11 +1,14 @@
-# AME-viewer
-Retrieves and displays AME2020 data entries. 
+# AME-NUBASE viewer
+Retrieves and displays AME2020 and NUBASE2020 data entries. 
 
-AME-viewer is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+AME-NUBASE viewer is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
-Please address any feedback to Jun Chen chenj@nscl.msu.edu
+Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
+
+#### 2022-06
+New feathers are added, like doing a simple arithmatic calculation based on an input expression. See the updated instruction for details. 
 
 #### 2021-10
 A simple instruction is included in the program and can be popped out by clicking on the "?" mark on the program window
