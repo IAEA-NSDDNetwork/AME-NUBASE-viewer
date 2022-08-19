@@ -8,7 +8,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 ## Change history
 
 #### 2022-06
-New feathers are added, like doing a simple arithmatic calculation based on an input expression. See the updated instruction for details. 
+New features are added, like doing a simple arithmetic calculation based on an input expression, e.g., 77CO-75NI-2*n for Q(B-2N). See the updated instruction for details. 
 
 #### 2021-10
 A simple instruction is included in the program and can be popped out by clicking on the "?" mark on the program window
