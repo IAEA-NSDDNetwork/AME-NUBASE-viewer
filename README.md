@@ -7,6 +7,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2023-04
+Bug fix
+
 #### 2022-11
 Use updated NUBASE2020 file from Filip Kondev with a few typos in the previous file being fixed.  
 
