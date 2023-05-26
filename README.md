@@ -8,7 +8,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 ## Change history
 
 #### 2023-05
-Added a new feature for calculating mass difference using input mass-excess value, e.g.,
+Added a new feature for calculating mass difference using an input mass-excess value, e.g.,
 77CO=-21910(234.5)-75NI-2*n for Q(B-2N) of 77Co using an input mass-excess -21910(234.5) for 77Co.
 
 #### 2023-04
