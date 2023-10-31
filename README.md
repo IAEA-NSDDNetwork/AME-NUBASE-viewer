@@ -7,6 +7,11 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2023-10
+Added a feature for calculating proton and neutron pairing energies, e.g.,type
+251MD:DP for delta(p) of 251Md calculating using mass-excess by default. Type
+251MD:DP-SP and 251MD:DP-BE for calculations using S(p) and binding energy, respectively.
+
 #### 2023-05
 Added a new feature for calculating mass difference using an input mass-excess value, e.g.,
 77CO=-21910(234.5)-75NI-2*n for Q(B-2N) of 77Co using an input mass-excess -21910(234.5) for 77Co.
