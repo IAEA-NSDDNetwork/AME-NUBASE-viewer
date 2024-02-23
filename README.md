@@ -7,6 +7,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2024-02
+Bug fix
+
 #### 2023-10
 Added a feature for calculating proton and neutron pairing-gap energies, e.g.,type
 251MD:DP3:DP4 for Dp(3) and Dp(4) of 251Md calculated using mass-excess by default. Type
