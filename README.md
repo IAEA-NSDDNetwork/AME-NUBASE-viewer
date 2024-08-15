@@ -12,7 +12,14 @@ Bug fixes and improvements
 
 Added a tool for automatically calculating all related Q-values based on input of one or multiple new mass excesses and existing AME mass excesses of other nuclei. For example, new masses of 65As and 61Ga are available after AME2020 and should be used to update all related Q-values of 65As, such as Q(ec), Q(ecp), Q(a), S(n), S(2p). To open this Q-value updating tool, right click on any blank area of the AME main window and select "open Q-Value updater". 
 
-It can also generate an ENSDF Q record line with the updated Q-values as well as corresponding Q comments about how the updated Q-values are deduced. Click "make Q ENSDF lines" button after making the updates to generate the Q record line and comments, which will be automatically copied into the system clipboard, ready to be pasted into an ENSDF Adopted dataset.
+It can also generate an ENSDF Q record line with the updated Q-values as well as corresponding Q comments about how the updated Q-values are deduced. Click "make Q ENSDF lines" button after making the updates to generate the Q record line and comments, which will be automatically copied into the system clipboard, ready to be pasted into an ENSDF Adopted dataset. 
+
+Simple instruction for using this tool:
+1. after the updater window is open, type the nuclues name of interst in the "Input Nuclide" field, like 65As, and press enter. All neighboring nuclei that are relevant to Q-values of 65As will be displayed at their corresponding positions as they are in the chart of nuclide.
+2. type the new mass excess value of a nuclide in its corresponding "New M.E." field. If a Q line and comments are needed, click "ref" label by the "New M.E." field to enter the NSR keynumber for the reference of the new mass measurement. That keynumber is needed for making the Q comment.
+3. click "calculate" button to calculate and display all Q-values of 65As.
+4. click "make Q ENSDF lines" to make a Q record line and relevant Q comments, which will be copied into the system clipboard.
+5. open the corresponding ENSDF dataset of Adopted Levels,Gammas in a text editor, remove the old Q record line and comments, and paste new Q line and comments there by "Ctrl+V". 
 
 #### 2024-02
 Bug fix
