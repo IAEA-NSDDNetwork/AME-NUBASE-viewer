@@ -7,7 +7,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
-#### 2024-02
+#### 2024-08
 Bug fixes and improvements
 
 Added a tool for automatically calculating all related Q-values based on input of one or multiple new mass excesses and existing AME mass excesses of other nuclei. For example, new masses of 65As and 61Ga are available after AME2020 and should be used to update all related Q-values of 65As, such as Q(ec), Q(ecp), Q(a), S(n), S(2p). To open this Q-value updating tool, right click on any blank area of the AME main window and select "open Q-Value updater". 
